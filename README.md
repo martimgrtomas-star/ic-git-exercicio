@@ -1,1 +1,3 @@
 # Funcionalidades
+
+O que aprendi
